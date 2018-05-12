@@ -1,0 +1,27 @@
+_repo: The-Two-Twilights_34741
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beers, Henry A. (Henry Augustin)
+    alias: Beers, Henry Augustin
+    birthdate: 1847
+    deathdate: 1926
+    gutenberg_agent_id: '4050'
+    url: http://www.gutenberg.org/2009/agents/4050
+description: ''
+gutenberg_issued: '2010-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34741'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: The Two Twilights
+url: http://www.gutenberg.org/ebooks/34741
